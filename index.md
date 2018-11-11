@@ -1,4 +1,9 @@
-## ここがホームページなのだ
+# marx.css のテスト
+
+- [marx デモ](index3.html)
+- [marx stylus デモ](index-stylus.html)
+
+## ここがホ ー ムペ ー ジなのだ
 
 You can use the [editor on GitHub](https://github.com/hiroshi-murano/web1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -6,13 +11,15 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-ここがホームページだ
+ここがホ ー ムペ ー ジだ
 
 ```markdown
 Syntax highlighted code block
 
 # Header 1
+
 ## Header 2
+
 ### Header 3
 
 - Bulleted
