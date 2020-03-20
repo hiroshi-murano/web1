@@ -1,4 +1,4 @@
-# marx.css のテスト
+# marx.css のテストなのだ 2020/3/20
 
 - [marx デモ](index3.html)
 - [marx stylus デモ](index-stylus.html)
